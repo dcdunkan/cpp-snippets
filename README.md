@@ -1,4 +1,6 @@
 # cpp-snippets
+
+<img src="https://i.ibb.co/cc34yzM/20210201-130537-0000.png" alt="cpp-snippets banner"></img>
 A C++ code snippet collection. From school studies. It is for everyone.
 ### Files contains
 1. **Hello World!**: A simple program to print out "Hello World!". A pretty basic program.
