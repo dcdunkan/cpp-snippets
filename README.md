@@ -2,7 +2,7 @@
 
 <img src="https://i.ibb.co/cc34yzM/20210201-130537-0000.png" alt="cpp-snippets banner"></img>
 A C++ code snippet collection. From school studies. It is for everyone.
-### If you found any errors, please make an issue, or PR. Happy to fix it.
+### If you found any errors, please make an issue, or PR. Happy to fix it. Or need more examples? Ask in the discussion tab!
 
 ## Files contains
 
