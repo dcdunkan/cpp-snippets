@@ -2,7 +2,10 @@
 
 <img src="https://i.ibb.co/cc34yzM/20210201-130537-0000.png" alt="cpp-snippets banner"></img>
 A C++ code snippet collection. From school studies. It is for everyone.
-### Files contains
+### If you found any errors, please make an issue, or PR. Happy to fix it.
+
+## Files contains
+
 1. **Hello World!**: A simple program to print out "Hello World!". A pretty basic program.
     * [Go to File >](https://github.com/dcdunkan/cpp-snippets/blob/main/001%20hello-world.cpp)
 2. **`cin` basics 1**: Prompts a user to enter their age and prints it out. Using `int`, and a single `cin`.
